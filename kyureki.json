@@ -1,0 +1,38 @@
+{
+    "name": "Japanese Kyuriki Info",
+    "reference": "ISBN: 9784816916304",
+    "start": "2021-02-12",
+    "end": "2026-02-16",
+    "years": [
+        {
+            "sexagenaryCycleInfo": 37,
+            "leapMonth": -1,
+            "sizeInfo": "011010101010",
+            "start": "2021-02-12"
+        },
+        {
+            "sexagenaryCycleInfo": 38,
+            "leapMonth": -1,
+            "sizeInfo": "101011010101",
+            "start": "2022-02-01"
+        },
+        {
+            "sexagenaryCycleInfo": 39,
+            "leapMonth": 1,
+            "sizeInfo": "0101010110101",
+            "start": "2023-01-22"
+        },
+        {
+            "sexagenaryCycleInfo": 40,
+            "leapMonth": -1,
+            "sizeInfo": "010010110110",
+            "start": "2024-02-10"
+        },
+        {
+            "sexagenaryCycleInfo": 41,
+            "leapMonth": 5,
+            "sizeInfo": "1010010101110",
+            "start": "2025-01-29"
+        }
+    ]
+}

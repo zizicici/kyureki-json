@@ -1,9 +1,39 @@
 {
     "name": "Japanese Kyuriki Info",
     "reference": "ISBN: 9784816916304",
-    "start": "2021-02-12",
-    "end": "2026-02-16",
+    "start": "2016-02-08",
+    "end": "2031-01-22",
     "years": [
+        {
+            "sexagenaryCycleInfo": 32,
+            "leapMonth": -1,
+            "sizeInfo": "101001011011",
+            "start": "2016-02-08"
+        },
+        {
+            "sexagenaryCycleInfo": 33,
+            "leapMonth": 5,
+            "sizeInfo": "0101001010111",
+            "start": "2017-01-28"
+        },
+        {
+            "sexagenaryCycleInfo": 34,
+            "leapMonth": -1,
+            "sizeInfo": "010100101011",
+            "start": "2018-02-16"
+        },
+        {
+            "sexagenaryCycleInfo": 35,
+            "leapMonth": -1,
+            "sizeInfo": "101010010101",
+            "start": "2019-02-05"
+        },
+        {
+            "sexagenaryCycleInfo": 36,
+            "leapMonth": 3,
+            "sizeInfo": "1011010010101",
+            "start": "2020-01-25"
+        },
         {
             "sexagenaryCycleInfo": 37,
             "leapMonth": -1,
@@ -33,6 +63,36 @@
             "leapMonth": 5,
             "sizeInfo": "1010010101110",
             "start": "2025-01-29"
+        },
+        {
+            "sexagenaryCycleInfo": 42,
+            "leapMonth": -1,
+            "sizeInfo": "101001010111",
+            "start": "2026-02-17"
+        },
+        {
+            "sexagenaryCycleInfo": 43,
+            "leapMonth": -1,
+            "sizeInfo": "010100100111",
+            "start": "2027-02-07"
+        },
+        {
+            "sexagenaryCycleInfo": 44,
+            "leapMonth": 4,
+            "sizeInfo": "0110100100110",
+            "start": "2028-01-27"
+        },
+        {
+            "sexagenaryCycleInfo": 45,
+            "leapMonth": -1,
+            "sizeInfo": "110110010011",
+            "start": "2029-02-13"
+        },
+        {
+            "sexagenaryCycleInfo": 46,
+            "leapMonth": -1,
+            "sizeInfo": "010110101010",
+            "start": "2030-02-03"
         }
     ]
 }

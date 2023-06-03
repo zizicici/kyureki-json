@@ -27,6 +27,31 @@ Based on 21世紀暦(ISBN: 9784816916304)
 
 - `start` represents the first day(Gregorian Calendar) of the year.
 
+## TODO
+
+2001-2099
+
+- [ ] 2001 - 2005
+- [ ] 2006 - 2010
+- [ ] 2011 - 2015
+- [x] 2016 - 2020
+- [x] 2021 - 2025
+- [x] 2026 - 2030
+- [ ] 2031 - 2035
+- [ ] 2036 - 2040
+- [ ] 2041 - 2045
+- [ ] 2046 - 2050
+- [ ] 2051 - 2055
+- [ ] 2056 - 2060
+- [ ] 2061 - 2065
+- [ ] 2066 - 2070
+- [ ] 2071 - 2075
+- [ ] 2076 - 2080
+- [ ] 2081 - 2085
+- [ ] 2086 - 2090
+- [ ] 2091 - 2095
+- [ ] 2096 - 2099
+
 ## Why `kyureki-json`
 
 I want to display Kyureki(旧暦) information and Rokuyo(六曜) calculated from Kyureki for the past few years and next several decades in my app.

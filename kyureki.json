@@ -5,6 +5,36 @@
     "end": "2031-01-22",
     "years": [
         {
+            "sexagenaryCycleInfo": 27,
+            "leapMonth": -1,
+            "sizeInfo": "101101001010",
+            "start": "2011-02-03"
+        },
+        {
+            "sexagenaryCycleInfo": 28,
+            "leapMonth": 3,
+            "sizeInfo": "1011101001010",
+            "start": "2012-01-23"
+        },
+        {
+            "sexagenaryCycleInfo": 29,
+            "leapMonth": -1,
+            "sizeInfo": "101101010101",
+            "start": "2013-02-10"
+        },
+        {
+            "sexagenaryCycleInfo": 30,
+            "leapMonth": 8,
+            "sizeInfo": "0101010110101",
+            "start": "2014-01-31"
+        },
+        {
+            "sexagenaryCycleInfo": 31,
+            "leapMonth": -1,
+            "sizeInfo": "010010111010",
+            "start": "2015-02-19"
+        },
+        {
             "sexagenaryCycleInfo": 32,
             "leapMonth": -1,
             "sizeInfo": "101001011011",

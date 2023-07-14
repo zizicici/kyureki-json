@@ -2,7 +2,7 @@
     "name": "Japanese Kyuriki Info",
     "reference": "ISBN: 9784816916304",
     "start": "2001-01-24",
-    "end": "2046-02-05",
+    "end": "2061-01-21",
     "years": [
         {
             "sexagenaryCycleInfo": 17,
@@ -273,6 +273,96 @@
             "leapMonth": -1,
             "sizeInfo": "101001001011",
             "start": "2045-02-17"
+        },
+        {
+            "sexagenaryCycleInfo": 2,
+            "leapMonth": -1,
+            "sizeInfo": "101100100101",
+            "start": "2046-02-06"
+        },
+        {
+            "sexagenaryCycleInfo": 3,
+            "leapMonth": 4,
+            "sizeInfo": "1011010100101",
+            "start": "2047-01-26"
+        },
+        {
+            "sexagenaryCycleInfo": 4,
+            "leapMonth": -1,
+            "sizeInfo": "011011010100",
+            "start": "2048-02-14"
+        },
+        {
+            "sexagenaryCycleInfo": 5,
+            "leapMonth": -1,
+            "sizeInfo": "101011011010",
+            "start": "2049-02-02"
+        },
+        {
+            "sexagenaryCycleInfo": 6,
+            "leapMonth": 2,
+            "sizeInfo": "1001010110110",
+            "start": "2050-01-23"
+        },
+        {
+            "sexagenaryCycleInfo": 7,
+            "leapMonth": -1,
+            "sizeInfo": "100101010111",
+            "start": "2051-02-11"
+        },
+        {
+            "sexagenaryCycleInfo": 8,
+            "leapMonth": 7,
+            "sizeInfo": "0100100110111",
+            "start": "2052-02-01"
+        },
+        {
+            "sexagenaryCycleInfo": 9,
+            "leapMonth": -1,
+            "sizeInfo": "010010010111",
+            "start": "2053-02-19"
+        },
+        {
+            "sexagenaryCycleInfo": 10,
+            "leapMonth": -1,
+            "sizeInfo": "011001001011",
+            "start": "2054-02-08"
+        },
+        {
+            "sexagenaryCycleInfo": 11,
+            "leapMonth": 5,
+            "sizeInfo": "0110101001010",
+            "start": "2055-01-28"
+        },
+        {
+            "sexagenaryCycleInfo": 12,
+            "leapMonth": -1,
+            "sizeInfo": "111010100101",
+            "start": "2056-02-15"
+        },
+        {
+            "sexagenaryCycleInfo": 13,
+            "leapMonth": -1,
+            "sizeInfo": "011010110010",
+            "start": "2057-02-04"
+        },
+        {
+            "sexagenaryCycleInfo": 14,
+            "leapMonth": 3,
+            "sizeInfo": "1010110101100",
+            "start": "2058-01-24"
+        },
+        {
+            "sexagenaryCycleInfo": 15,
+            "leapMonth": -1,
+            "sizeInfo": "101010110110",
+            "start": "2059-02-12"
+        },
+        {
+            "sexagenaryCycleInfo": 16,
+            "leapMonth": -1,
+            "sizeInfo": "100100110111",
+            "start": "2060-02-02"
         }
     ]
 }

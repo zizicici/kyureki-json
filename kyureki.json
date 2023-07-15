@@ -2,7 +2,7 @@
     "name": "Japanese Kyuriki Info",
     "reference": "ISBN: 9784816916304",
     "start": "2001-01-24",
-    "end": "2061-01-21",
+    "end": "2071-01-30",
     "years": [
         {
             "sexagenaryCycleInfo": 17,
@@ -363,6 +363,66 @@
             "leapMonth": -1,
             "sizeInfo": "100100110111",
             "start": "2060-02-02"
+        },
+        {
+            "sexagenaryCycleInfo": 17,
+            "leapMonth": 2,
+            "sizeInfo": "0100100101110",
+            "start": "2061-01-22"
+        },
+        {
+            "sexagenaryCycleInfo": 18,
+            "leapMonth": -1,
+            "sizeInfo": "110010010110",
+            "start": "2062-02-09"
+        },
+        {
+            "sexagenaryCycleInfo": 19,
+            "leapMonth": 6,
+            "sizeInfo": "1101010010101",
+            "start": "2063-01-29"
+        },
+        {
+            "sexagenaryCycleInfo": 20,
+            "leapMonth": -1,
+            "sizeInfo": "110101001010",
+            "start": "2064-02-17"
+        },
+        {
+            "sexagenaryCycleInfo": 21,
+            "leapMonth": -1,
+            "sizeInfo": "110110100101",
+            "start": "2065-02-05"
+        },
+        {
+            "sexagenaryCycleInfo": 22,
+            "leapMonth": 4,
+            "sizeInfo": "0101101010101",
+            "start": "2066-01-26"
+        },
+        {
+            "sexagenaryCycleInfo": 23,
+            "leapMonth": -1,
+            "sizeInfo": "010101101010",
+            "start": "2067-02-14"
+        },
+        {
+            "sexagenaryCycleInfo": 24,
+            "leapMonth": -1,
+            "sizeInfo": "101010101101",
+            "start": "2068-02-03"
+        },
+        {
+            "sexagenaryCycleInfo": 25,
+            "leapMonth": 3,
+            "sizeInfo": "1001001011101",
+            "start": "2069-01-23"
+        },
+        {
+            "sexagenaryCycleInfo": 26,
+            "leapMonth": -1,
+            "sizeInfo": "100100101101",
+            "start": "2070-02-11"
         }
     ]
 }

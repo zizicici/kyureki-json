@@ -453,6 +453,36 @@
             "leapMonth": -1,
             "sizeInfo": "101011010101",
             "start": "2075-02-15"
+        },
+        {
+            "sexagenaryCycleInfo": 32,
+            "leapMonth": -1,
+            "sizeInfo": "010101011010",
+            "start": "2076-2-5"
+        },
+        {
+            "sexagenaryCycleInfo": 33,
+            "leapMonth": 3,
+            "sizeInfo": "1010010111010",
+            "start": "2077-1-24"
+        },
+        {
+            "sexagenaryCycleInfo": 34,
+            "leapMonth": -1,
+            "sizeInfo": "101001011011",
+            "start": "2078-2-12"
+        },
+        {
+            "sexagenaryCycleInfo": 35,
+            "leapMonth": -1,
+            "sizeInfo": "010100101011",
+            "start": "2079-2-2"
+        },
+        {
+            "sexagenaryCycleInfo": 36,
+            "leapMonth": 2,
+            "sizeInfo": "1010100100111",
+            "start": "2080-1-22"
         }
     ]
 }

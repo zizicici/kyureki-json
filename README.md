@@ -1,8 +1,6 @@
 # kyureki-json
 Japanese Kyureki Info JSON(日本旧历/旧暦)
 
-Based on 21世紀暦(ISBN: 9784816916304)
-
 ## Format specification:
 
 - `sexagenaryCycleInfo` represents the index of the year in the sexagenary cycle(干支), start from `0` to `59`.

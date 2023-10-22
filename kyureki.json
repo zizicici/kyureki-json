@@ -1,9 +1,69 @@
 {
     "name": "Japanese Kyuriki Info",
     "reference": "ISBN: 9784816916304",
-    "start": "1991-02-15",
+    "start": "1981-02-05",
     "end": "2100-02-08",
     "years": [
+        {
+            "sexagenaryCycleInfo": 57,
+            "leapMonth": -1,
+            "sizeInfo": "010010011011",
+            "start": "1981-02-05"
+        },
+        {
+            "sexagenaryCycleInfo": 58,
+            "leapMonth": 3,
+            "sizeInfo": "1010010011011",
+            "start": "1982-01-25"
+        },
+        {
+            "sexagenaryCycleInfo": 59,
+            "leapMonth": -1,
+            "sizeInfo": "101001001011",
+            "start": "1983-02-13"
+        },
+        {
+            "sexagenaryCycleInfo": 0,
+            "leapMonth": 9,
+            "sizeInfo": "1011001001011",
+            "start": "1984-02-02"
+        },
+        {
+            "sexagenaryCycleInfo": 1,
+            "leapMonth": -1,
+            "sizeInfo": "011010100101",
+            "start": "1985-02-20"
+        },
+        {
+            "sexagenaryCycleInfo": 2,
+            "leapMonth": -1,
+            "sizeInfo": "011011010100",
+            "start": "1986-02-09"
+        },
+        {
+            "sexagenaryCycleInfo": 3,
+            "leapMonth": 5,
+            "sizeInfo": "1011010110101",
+            "start": "1987-01-29"
+        },
+        {
+            "sexagenaryCycleInfo": 4,
+            "leapMonth": -1,
+            "sizeInfo": "001010110110",
+            "start": "1988-02-18"
+        },
+        {
+            "sexagenaryCycleInfo": 5,
+            "leapMonth": -1,
+            "sizeInfo": "100101011011",
+            "start": "1989-02-06"
+        },
+        {
+            "sexagenaryCycleInfo": 6,
+            "leapMonth": 4,
+            "sizeInfo": "0100100110111",
+            "start": "1990-01-27"
+        },
         {
             "sexagenaryCycleInfo": 7,
             "leapMonth": -1,

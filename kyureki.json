@@ -1,9 +1,69 @@
 {
     "name": "Japanese Kyuriki Info",
     "reference": "Publication",
-    "start": "1961-02-15",
+    "start": "1951-02-06",
     "end": "2100-02-08",
     "years": [
+        {
+            "sexagenaryCycleInfo": 27,
+            "leapMonth": -1,
+            "sizeInfo": "101101010101",
+            "start": "1951-02-06"
+        },
+        {
+            "sexagenaryCycleInfo": 28,
+            "leapMonth": 4,
+            "sizeInfo": "0101011010101",
+            "start": "1952-01-27"
+        },
+        {
+            "sexagenaryCycleInfo": 29,
+            "leapMonth": -1,
+            "sizeInfo": "010011011011",
+            "start": "1953-02-14"
+        },
+        {
+            "sexagenaryCycleInfo": 30,
+            "leapMonth": -1,
+            "sizeInfo": "001001011011",
+            "start": "1954-02-04"
+        },
+        {
+            "sexagenaryCycleInfo": 31,
+            "leapMonth": 2,
+            "sizeInfo": "1001001010111",
+            "start": "1955-01-24"
+        },
+        {
+            "sexagenaryCycleInfo": 32,
+            "leapMonth": -1,
+            "sizeInfo": "010100101011",
+            "start": "1956-02-12"
+        },
+        {
+            "sexagenaryCycleInfo": 33,
+            "leapMonth": 7,
+            "sizeInfo": "1010100101011",
+            "start": "1957-01-31"
+        },
+        {
+            "sexagenaryCycleInfo": 34,
+            "leapMonth": -1,
+            "sizeInfo": "011010010101",
+            "start": "1958-02-19"
+        },
+        {
+            "sexagenaryCycleInfo": 35,
+            "leapMonth": -1,
+            "sizeInfo": "011010101010",
+            "start": "1959-02-08"
+        },
+        {
+            "sexagenaryCycleInfo": 36,
+            "leapMonth": 5,
+            "sizeInfo": "1010110101010",
+            "start": "1960-01-28"
+        },
         {
             "sexagenaryCycleInfo": 37,
             "leapMonth": -1,

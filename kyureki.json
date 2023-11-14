@@ -5,6 +5,66 @@
     "end": "2100-02-08",
     "years": [
         {
+            "sexagenaryCycleInfo": 7,
+            "leapMonth": -1,
+            "sizeInfo": "111001001010",
+            "start": "1931-02-17"
+        },
+        {
+            "sexagenaryCycleInfo": 8,
+            "leapMonth": -1,
+            "sizeInfo": "111010100101",
+            "start": "1932-02-06"
+        },
+        {
+            "sexagenaryCycleInfo": 9,
+            "leapMonth": 4,
+            "sizeInfo": "0110110101001",
+            "start": "1933-01-26"
+        },
+        {
+            "sexagenaryCycleInfo": 10,
+            "leapMonth": -1,
+            "sizeInfo": "010110110101",
+            "start": "1934-02-14"
+        },
+        {
+            "sexagenaryCycleInfo": 11,
+            "leapMonth": -1,
+            "sizeInfo": "001010110110",
+            "start": "1935-02-04"
+        },
+        {
+            "sexagenaryCycleInfo": 12,
+            "leapMonth": 2,
+            "sizeInfo": "1001010101110",
+            "start": "1936-01-24"
+        },
+        {
+            "sexagenaryCycleInfo": 13,
+            "leapMonth": -1,
+            "sizeInfo": "100100101110",
+            "start": "1937-02-11"
+        },
+        {
+            "sexagenaryCycleInfo": 14,
+            "leapMonth": 6,
+            "sizeInfo": "1100100101101",
+            "start": "1938-01-31"
+        },
+        {
+            "sexagenaryCycleInfo": 15,
+            "leapMonth": -1,
+            "sizeInfo": "110010010101",
+            "start": "1939-02-19"
+        },
+        {
+            "sexagenaryCycleInfo": 16,
+            "leapMonth": -1,
+            "sizeInfo": "110101001010",
+            "start": "1940-02-08"
+        },
+        {
             "sexagenaryCycleInfo": 17,
             "leapMonth": 5,
             "sizeInfo": "1101101001010",
